@@ -1,11 +1,11 @@
 
-# AFFRV-01 | Autonomous Fire Fighting Robotic Vehicle
+# AFFRV | Autonomous Fire Fighting Robotic Vehicle
 
 An ESP32-based autonomous fire-fighting robotic vehicle developed as part of the Engineering Clinics (ECS2003) course at VIT-AP University.
 
 ## Project Overview
 
-AFFRV-01 is a four-wheel robotic prototype designed to detect flames, respond through programmed motor movements, activate a water pump, and support manual operation through Bluetooth.
+AFFRV is a four-wheel robotic prototype designed to detect flames, respond through programmed motor movements, activate a water pump, and support manual operation through Bluetooth.
 
 ## Hardware Components
 
@@ -63,7 +63,7 @@ AFFRV-01 is a four-wheel robotic prototype designed to detect flames, respond th
 VIT-AP University  
 School of Engineering  
 Course: Engineering Clinics (ECS2003)  
-Project ID: AFFRV-01
+Project ID: AFFRV
 
 ## Important Note
 
